@@ -76,7 +76,7 @@ npm start
 4. Open your browser and go to:
 
 ```
-http://localhost:3000
+[http://localhost:3000](http://localhost:3000 (this is the default address used by most React development servers; if the port is already in use, the terminal will show a different URL to open))
 ```
 
 ---
